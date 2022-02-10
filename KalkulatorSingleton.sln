@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KalkulatorSingleton", "KalkulatorSingleton\KalkulatorSingleton.csproj", "{EA339A68-2380-487B-A1BA-5B60100BBC39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA339A68-2380-487B-A1BA-5B60100BBC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA339A68-2380-487B-A1BA-5B60100BBC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA339A68-2380-487B-A1BA-5B60100BBC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA339A68-2380-487B-A1BA-5B60100BBC39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAD661A8-333F-48A3-A3EB-B7D138752545}
+	EndGlobalSection
+EndGlobal

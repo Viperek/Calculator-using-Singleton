@@ -1,0 +1,13 @@
+Dodawanie 0 + 6 = 0
+Dodawanie 0 + 5 = 0
+Dodawanie 0 + 2 = 0
+Dodawanie 25 + 5 = 0
+Dodawanie 52 + 8 = 4
+Dodawanie 63 % 69 = 132
+Dodawanie 25+147 = 172
+Dodawanie 0+172 = 172
+Dodawanie 172+12 = 184
+Dodawanie 25+5 = 30
+Dodawanie 30+5 = 35
+Nie podałeś nic!
+Nie dziel przez zero!
